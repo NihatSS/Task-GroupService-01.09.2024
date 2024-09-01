@@ -1,0 +1,36 @@
+[
+    {
+        "Name": "pb102",
+        "Students": [
+            {
+                "code": 0,
+                "Name": "Nihat",
+                "Surname": "Soltanov",
+                "Age": 17
+            },
+            {
+                "code": 1,
+                "Name": "Ferdi",
+                "Surname": "Ismayilzade",
+                "Age": 18
+            }
+        ]
+    },
+    {
+        "Name": "pf205",
+        "Students": [
+            {
+                "code": 2,
+                "Name": "Nihat",
+                "Surname": "Soltanov",
+                "Age": 17
+            },
+            {
+                "code": 3,
+                "Name": "Ferdi",
+                "Surname": "Ismayilzade",
+                "Age": 18
+            }
+        ]
+    }
+]

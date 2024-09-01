@@ -1,0 +1,17 @@
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\StudentServiceTask\StudentServiceTask\bin\Debug\net6.0\StudentServiceTask.exe
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\StudentServiceTask\StudentServiceTask\bin\Debug\net6.0\StudentServiceTask.deps.json
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\StudentServiceTask\StudentServiceTask\bin\Debug\net6.0\StudentServiceTask.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\StudentServiceTask\StudentServiceTask\bin\Debug\net6.0\StudentServiceTask.dll
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\StudentServiceTask\StudentServiceTask\bin\Debug\net6.0\StudentServiceTask.pdb
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\StudentServiceTask\StudentServiceTask\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\StudentServiceTask\StudentServiceTask\obj\Debug\net6.0\StudentServiceTask.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\StudentServiceTask\StudentServiceTask\obj\Debug\net6.0\StudentServiceTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\StudentServiceTask\StudentServiceTask\obj\Debug\net6.0\StudentServiceTask.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\StudentServiceTask\StudentServiceTask\obj\Debug\net6.0\StudentServiceTask.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\StudentServiceTask\StudentServiceTask\obj\Debug\net6.0\StudentServiceTask.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\StudentServiceTask\StudentServiceTask\obj\Debug\net6.0\StudentS.01E194C5.Up2Date
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\StudentServiceTask\StudentServiceTask\obj\Debug\net6.0\StudentServiceTask.dll
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\StudentServiceTask\StudentServiceTask\obj\Debug\net6.0\refint\StudentServiceTask.dll
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\StudentServiceTask\StudentServiceTask\obj\Debug\net6.0\StudentServiceTask.pdb
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\StudentServiceTask\StudentServiceTask\obj\Debug\net6.0\StudentServiceTask.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\StudentServiceTask\StudentServiceTask\obj\Debug\net6.0\ref\StudentServiceTask.dll
