@@ -6,6 +6,9 @@ StudentService studentService = new StudentService();
 bool isContinue = true;
 
 
+
+//Heleki telebeni elave etmek de, telebeni silmekde propblem. Derse kimi ede bilmesem pis olacaq.
+
 do
 {
     Console.WriteLine("1-Qruplara bax\n2-Qrup yarat\n3-Qrup sil\n4-Qrupa kec");
